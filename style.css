@@ -1,0 +1,10 @@
+body {
+
+}
+
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
