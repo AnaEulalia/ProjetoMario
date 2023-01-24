@@ -121,7 +121,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0
     gap: 15px;
 }
 
-.close-modal {
+.modal-close {
     background-color: #ffffff;
     color: #f03a17;
     font-weight: bold;
@@ -138,7 +138,7 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0
     height: 360px;
 }
 
-.modal .aberto {
+.modal.aberto {
     opacity: 1;
     visibility: visible;
 }
