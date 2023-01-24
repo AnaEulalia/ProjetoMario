@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <h1 align="center"> Landing Page -Mario Boss </h1>
 
 <p align="center">
@@ -34,3 +35,5 @@ O projeto  é uma Landing Page com o tema do filme Mario Boss que vai lançar no
 ---
 
 Feito com ♥ by Devemdobro :wave: [Participe da nossa comunidade!](https://devemdobro.com/comunidade-dev-em-dobro/)
+=======
+>>>>>>> 2284e5fb48336f70797ead306d2841e4d550bf75
