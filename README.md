@@ -1,9 +1,8 @@
 
-<<<<<<< HEAD
 <h1 align="center"> Landing Page -Mario Boss </h1>
 
 <p align="center">
-Projeto gratuito, promovido por @devemdobro (instagram) para ensino de tecnologias WEB. <br/>
+Projeto gratuito, promovido por Dev em Dobro para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
@@ -14,7 +13,7 @@ Projeto gratuito, promovido por @devemdobro (instagram) para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="projeto MarioBoss" src=".github/preview.jpg" width="100%">
+  <img alt="projeto MarioBoss" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,5 +34,3 @@ O projeto  é uma Landing Page com o tema do filme Mario Boss que vai lançar no
 ---
 
 Feito com ♥ by Devemdobro :wave: [Participe da nossa comunidade!](https://devemdobro.com/comunidade-dev-em-dobro/)
-=======
->>>>>>> 2284e5fb48336f70797ead306d2841e4d550bf75
