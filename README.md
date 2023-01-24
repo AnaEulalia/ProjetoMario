@@ -33,4 +33,4 @@ O projeto  é uma Landing Page com o tema do filme Mario Boss que vai lançar no
 
 ---
 
-Feito com ♥ by Devemdobro :wave: [Participe da nossa comunidade!](https://devemdobro.com/comunidade-dev-em-dobro/)
+Feito com ♥ by Dev em dobro :wave: [Participe da nossa comunidade!](https://devemdobro.com/comunidade-dev-em-dobro/)
